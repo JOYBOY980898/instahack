@@ -1,6 +1,6 @@
-# instahack
-Script hack instagram termux terbaru
-
-# Cara Penggunaan
-Cek website berikut:
-https://termux.id/hack-instagram-termux
+apt update && apt upgrade
+Pkg install bash
+Pkg install python2
+Pkg install git
+Pip2 install request
+Pip2 isntall mechanize
